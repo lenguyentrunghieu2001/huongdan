@@ -1,0 +1,6 @@
+1 git init
+2 git add .
+3 git commit -m '<nội dung message>'
+4 git remote add origin https://github.com/lenguyentrunghieu2001/CodeFirstGitHub.git (copy trên github của mình)
+5 git push origin master
+<git config --list>
